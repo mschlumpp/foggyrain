@@ -1,0 +1,16 @@
+[
+{
+  "modid": "foggyrain",
+  "name": "FoggyRain",
+  "description": "Moar rain!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["theunknownxy"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
